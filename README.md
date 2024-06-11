@@ -26,3 +26,14 @@ Coming Soon!
 Coming Soon!
 
 ## Citation🎈
+
+```bibtex
+@misc{liu2024uemmair,
+      title={UEMM-Air: A Synthetic Multi-modal Dataset for Unmanned Aerial Vehicle Object Detection}, 
+      author={Fan Liu and Liang Yao and Shengxiang Xu and Chuanyi Zhang and Xinlei Zhang and Ting Wu},
+      year={2024},
+      eprint={2406.06230},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
