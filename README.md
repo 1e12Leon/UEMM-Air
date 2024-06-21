@@ -25,6 +25,9 @@ Moreover, we conduct numerous experiments and establish new benchmark results on
 ### Annotations
 *  [BaiduYun](https://pan.baidu.com/s/1jlLoKPE-nSvl148Wxpcm_A?pwd=zwo7) 
 
+### Annotations (Fine-grained)
+*  [BaiduYun](https://pan.baidu.com/s/1O3XUfcv1zq6gPGglaoP5ag?pwd=6sb5)
+  
 ## Citation🎈
 
 ```bibtex
