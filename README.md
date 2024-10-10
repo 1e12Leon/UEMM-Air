@@ -5,6 +5,12 @@ Moreover, we conduct numerous experiments and establish new benchmark results on
 
 ![图片1](https://github.com/1e12Leon/UEMM-Air/assets/44053847/56f0e7b2-a757-4386-a47c-bceada76b79c)
 
+
+## News
+
+- **2024/10/10**: We generate more complex scenes and expand the UEMM-Air's scale to 10k pairs of multi-modal images!
+- **2024/06/10**: We propose UEMM-Air. Dataset will be open-sourced at this repository.
+  
 ## Download the Dataset 📂
 
 ### The Whole UEMM-Air
