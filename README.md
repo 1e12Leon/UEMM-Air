@@ -8,7 +8,7 @@ Moreover, we conduct numerous experiments and establish new benchmark results on
 
 ## News
 
-- **2024/10/10**: We generate more complex scenes and expand the UEMM-Air's scale to 10k pairs of multi-modal images!
+- **2024/10/10**: We generate more complex scenes and expand the UEMM-Air's scale to 100k pairs of multi-modal images!
 - **2024/06/10**: We propose UEMM-Air. Dataset will be open-sourced at this repository.
   
 ## Download the Dataset 📂
