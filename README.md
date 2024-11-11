@@ -7,13 +7,27 @@ Moreover, we conduct numerous experiments and establish new benchmark results on
 
 
 ## News
-
+- **2024/11/11**: We extend more multi-modal tasks and introduce UEMM-Air v2.0!
 - **2024/10/10**: We generate more complex scenes and expand the UEMM-Air's scale to 100k pairs of multi-modal images!
 - **2024/06/10**: We propose UEMM-Air. Dataset will be open-sourced at this repository.
   
-## Download the Dataset 📂
+## Download the UEMM-Air v2.0 📂
 
-### The Whole UEMM-Air
+### Multi-modality Images
+*  [BaiduYun](https://pan.baidu.com/s/1AgrehM3Bs-aiVLVrdswWeQ?pwd=xcpe)
+
+### Object Detection
+*  [BaiduYun](https://pan.baidu.com/s/1bkG3G3nUre65yk0XjeaQ5w?pwd=a3qt)
+
+### Refering Segmentation
+*  Coming Soon!
+  
+### Image-Text Contrastive Learning
+*  Coming Soon!
+  
+## Download the UEMM-Air v1.0 📂
+
+### The Whole UEMM-Air v1.0
 *  [BaiduYun](https://pan.baidu.com/s/1tny1Y8XS0K9bvBdWcToe8g?pwd=y6i7) 
 
 ### RGB
