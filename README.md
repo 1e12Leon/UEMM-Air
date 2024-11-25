@@ -19,7 +19,7 @@ Moreover, we conduct numerous experiments and establish new benchmark results on
 ### Object Detection
 *  [BaiduYun](https://pan.baidu.com/s/1bkG3G3nUre65yk0XjeaQ5w?pwd=a3qt)
 
-### Refering Segmentation
+### Referring Segmentation
 *  Coming Soon!
   
 ### Image-Text Contrastive Learning
