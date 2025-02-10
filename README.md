@@ -1,4 +1,4 @@
-# UEMM-Air: A Synthetic Multi-modal Dataset for Unmanned Aerial Vehicle Object Detection
+# UEMM-Air: Make Unmanned Aerial Vehicles Perform More Multi-modal Tasks
 
 The development of multi-modal object detection for Unmanned Aerial Vehicles (UAVs) typically relies on a large amount of pixel-aligned multi-modal image data. However, existing datasets face challenges such as limited modalities, high construction costs, and imprecise annotations. To this end, we propose a synthetic multi-modal UAV-based object detection dataset, UEMM-Air. Specially, we simulate various UAV flight scenarios and object types using the Unreal Engine (UE). Then we design the UAV's flight logic to automatically collect data from different scenarios, perspectives, and altitudes. Finally, we propose a novel heuristic automatic annotation algorithm to generate accurate object detection labels. In total, our UEMM-Air consists of 20k pairs of images with 5 modalities and precise annotations. 
 Moreover, we conduct numerous experiments and establish new benchmark results on our dataset. We found that models pre-trained on UEMM-Air exhibit better performance on downstream tasks compared to other similar datasets. 
@@ -18,6 +18,9 @@ Moreover, we conduct numerous experiments and establish new benchmark results on
 
 ### Object Detection
 *  [BaiduYun](https://pan.baidu.com/s/1bkG3G3nUre65yk0XjeaQ5w?pwd=a3qt)
+
+### Instance Segmentation
+*  [BaiduYun](https://pan.baidu.com/s/1TEwa8NrmbDK_Vd_zpysHug?pwd=y1f4)
 
 ### Referring Segmentation
 *  Coming Soon!
