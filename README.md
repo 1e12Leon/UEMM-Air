@@ -3,30 +3,30 @@
 # UEMM-Air: Enable UAVs to Undertake More Multi-modal Tasks via Plentiful Data Synthesis
 
 [Liang Yao (姚亮)](https://multimodality.group/author/%E5%A7%9A%E4%BA%AE/) 
-<img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp; 
+&nbsp; &nbsp; 
 [Fan Liu (刘凡)](https://multimodality.group/author/%E5%88%98%E5%87%A1/) ✉ 
-<img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp;
+&nbsp; &nbsp;
 [Shengxiang Xu (徐圣翔)](https://multimodality.group/author/%E5%BE%90%E5%9C%A3%E7%BF%94/) 
-<img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp; 
+&nbsp; &nbsp; 
 [Chuanyi Zhang (张传一)](https://ai.hhu.edu.cn/2023/0809/c17670a264073/page.htm) ✉ 
-<img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp;
+&nbsp; &nbsp;
 Shimin Di (邸世民)
-<img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp; 
+&nbsp; &nbsp; 
 
 Xing Ma (马幸)
-<img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp; 
+&nbsp; &nbsp; 
 Jianyu Jiang (江建谕)
-<img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp; 
+&nbsp; &nbsp; 
 Zequan Wang (王泽权)
-<img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp; 
+&nbsp; &nbsp; 
 [Jun Zhou (周峻)](https://experts.griffith.edu.au/7205-jun-zhou) 
-<img src="assets/griffith_logo.png" alt="Logo" width="15">
+
 
 </div>
 
 
+![Fig2](https://github.com/user-attachments/assets/58b2bc84-9643-43f2-89a4-b14dd91ce47d)
 
-![图片1](https://github.com/1e12Leon/UEMM-Air/assets/44053847/56f0e7b2-a757-4386-a47c-bceada76b79c)
 
 
 ## News
