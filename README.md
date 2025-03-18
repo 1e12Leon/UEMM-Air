@@ -1,7 +1,30 @@
-# UEMM-Air: Make Unmanned Aerial Vehicles Perform More Multi-modal Tasks
+<div align="center">
 
-The development of multi-modal object detection for Unmanned Aerial Vehicles (UAVs) typically relies on a large amount of pixel-aligned multi-modal image data. However, existing datasets face challenges such as limited modalities, high construction costs, and imprecise annotations. To this end, we propose a synthetic multi-modal UAV-based object detection dataset, UEMM-Air. Specially, we simulate various UAV flight scenarios and object types using the Unreal Engine (UE). Then we design the UAV's flight logic to automatically collect data from different scenarios, perspectives, and altitudes. Finally, we propose a novel heuristic automatic annotation algorithm to generate accurate object detection labels. In total, our UEMM-Air consists of 20k pairs of images with 5 modalities and precise annotations. 
-Moreover, we conduct numerous experiments and establish new benchmark results on our dataset. We found that models pre-trained on UEMM-Air exhibit better performance on downstream tasks compared to other similar datasets. 
+# UEMM-Air: Enable UAVs to Undertake More Multi-modal Tasks via Plentiful Data Synthesis
+
+[Liang Yao (姚亮)](https://multimodality.group/author/%E5%A7%9A%E4%BA%AE/) 
+<img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp; 
+[Fan Liu (刘凡)](https://multimodality.group/author/%E5%88%98%E5%87%A1/) ✉ 
+<img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp;
+[Shengxiang Xu (徐圣翔)](https://multimodality.group/author/%E5%BE%90%E5%9C%A3%E7%BF%94/) 
+<img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp; 
+[Chuanyi Zhang (张传一)](https://ai.hhu.edu.cn/2023/0809/c17670a264073/page.htm) ✉ 
+<img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp;
+Shimin Di (邸世民)
+<img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp; 
+
+Xing Ma (马幸)
+<img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp; 
+Jianyu Jiang (江建谕)
+<img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp; 
+Zequan Wang (王泽权)
+<img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp; 
+[Jun Zhou (周峻)](https://experts.griffith.edu.au/7205-jun-zhou) 
+<img src="assets/griffith_logo.png" alt="Logo" width="15">
+
+</div>
+
+
 
 ![图片1](https://github.com/1e12Leon/UEMM-Air/assets/44053847/56f0e7b2-a757-4386-a47c-bceada76b79c)
 
