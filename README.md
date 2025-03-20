@@ -36,6 +36,8 @@ Zequan Wang (王泽权)
   
 ## Download the UEMM-Air v2.0 📂
 
+*  🤗[Hugging Face](https://huggingface.co/datasets/1e12Leon/UEMM-Air)
+
 ### Multi-modality Images
 *  [BaiduYun](https://pan.baidu.com/s/1AgrehM3Bs-aiVLVrdswWeQ?pwd=xcpe)
 
