@@ -46,10 +46,10 @@ Zequan Wang (王泽权)
 *  [BaiduYun](https://pan.baidu.com/s/1TEwa8NrmbDK_Vd_zpysHug?pwd=y1f4)
 
 ### Referring Segmentation
-*  Coming Soon!
+*  [BaiduYun](https://pan.baidu.com/s/1hO5h2UdYwxJrLmk4oStupg?pwd=wqxi)
   
 ### Image-Text Contrastive Learning
-*  Coming Soon!
+*   [BaiduYun](https://pan.baidu.com/s/1O-U84fhqsJruyEV-UDKx8w?pwd=jppd)
   
 ## Download the UEMM-Air v1.0 📂
 
