@@ -11,7 +11,7 @@
 
 [Chuanyi Zhang (张传一)](https://ai.hhu.edu.cn/2023/0809/c17670a264073/page.htm) ✉ 
 <img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp;
-Shimin Di (邸世民)
+[Shimin Di (邸世民)](https://sdiaa.github.io/)
 <img src="assets/SEU.png" alt="Logo" width="15">, &nbsp; &nbsp;
 Xing Ma (马幸)
 <img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp; 
