@@ -15,9 +15,9 @@
 <img src="assets/SEU.png" alt="Logo" width="15">, &nbsp; &nbsp;
 Xing Ma (马幸)
 <img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp; 
-Jianyu Jiang (江建谕)
-<img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp; 
 
+Jianyu Jiang (江建谕)
+<img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp;
 Zequan Wang (王泽权)
 <img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp; 
 [Jun Zhou (周峻)](https://experts.griffith.edu.au/7205-jun-zhou) 
