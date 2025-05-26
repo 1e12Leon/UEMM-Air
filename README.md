@@ -55,7 +55,11 @@ Zequan Wang (王泽权)
 ## Introduction
 ![Fig2](https://github.com/user-attachments/assets/58b2bc84-9643-43f2-89a4-b14dd91ce47d)
 
-We present a large-scale synthetic drone vision dataset with 6 paired multimodal streams (120k+ sequences) and 4D task versatility , enabling comprehensive research in perception, navigation, and autonomy. Built on Unreal Engine, it offers photorealistic aerial scenarios with precise physics, diverse environmental variations, and pixel-perfect annotations. The paired modalities (e.g., RGB/Depth/IR/LIDAR/Event/SAR) facilitate cross-modal learning and domain adaptation studies, while the multi-task support (detection, segmentation, pose estimation, scene understanding) encourages holistic perception modeling. Its synthetic nature ensures scalability, reproducibility, and rare-event coverage, addressing critical gaps in real-world drone datasets. This work establishes a new benchmark for robust, generalizable vision systems in complex aerial environments.
+We present a large-scale synthetic drone vision dataset with 6 paired multimodal streams (120k+ sequences) and 4D task versatility , 
+enabling comprehensive research in perception, navigation, and autonomy. 
+Built on Unreal Engine, it offers photorealistic aerial scenarios with precise physics, diverse environmental variations, and pixel-perfect annotations. 
+The paired modalities facilitate cross-modal learning and domain adaptation studies, while the multi-task support (detection, segmentation, retrieval, cross-modality understanding) 
+encourages holistic perception modeling. Its synthetic nature ensures scalability, reproducibility, and rare-event coverage, addressing critical gaps in real-world drone datasets. This work establishes a new benchmark for robust, generalizable vision systems in complex aerial environments.
 
 
 ## Download the UEMM-Air 📂
