@@ -24,9 +24,9 @@ Zequan Wang (王泽权)
 <img src="assets/Griffith.png" alt="Logo" width="15">
 
 
-<img src="assets/hhu_logo.png" alt="Logo" width="30"> Hohai University, &nbsp; &nbsp;
-<img src="assets/SEU.png" alt="Logo" width="30"> Southeast University, &nbsp; &nbsp;
-<img src="assets/Griffith.png" alt="Logo" width="30"> Griffith University
+<img src="assets/hhu_logo_text.png" alt="Logo" width="100"> &nbsp; &nbsp;  &nbsp; &nbsp; 
+<img src="assets/seu_logo_text.jpg" alt="Logo" width="100"> &nbsp; &nbsp;  &nbsp; &nbsp; 
+<img src="assets/griffith_logo_text.png" alt="Logo" width="90">
 
 ✉ *Corresponding Author*
 
