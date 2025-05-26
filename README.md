@@ -1,6 +1,6 @@
 <div align="center">
 
-# UEMM-Air: Enable UAVs to Undertake More Multi-modal Tasks via Plentiful Data Synthesis
+# UEMM-Air: Enable UAVs to Undertake More Multi-modal Tasks
 
 [Liang Yao (姚亮)](https://multimodality.group/author/%E5%A7%9A%E4%BA%AE/) 
 &nbsp; &nbsp; 
