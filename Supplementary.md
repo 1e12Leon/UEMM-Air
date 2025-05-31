@@ -1,36 +1,6 @@
 <div align="center">
 
-# Supplementary materials of “UEMM-Air: Enable UAVs to Undertake More Multi-modal Tasks”
-
-[Liang Yao (姚亮)](https://multimodality.group/author/%E5%A7%9A%E4%BA%AE/) 
-<img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp; 
-[Fan Liu (刘凡)](https://multimodality.group/author/%E5%88%98%E5%87%A1/) ✉ 
-<img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp;
-[Shengxiang Xu (徐圣翔)](https://multimodality.group/author/%E5%BE%90%E5%9C%A3%E7%BF%94/) 
-<img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp; 
-
-[Chuanyi Zhang (张传一)](https://ai.hhu.edu.cn/2023/0809/c17670a264073/page.htm) ✉ 
-<img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp;
-[Shimin Di (邸世民)](https://sdiaa.github.io/)
-<img src="assets/SEU.png" alt="Logo" width="15">, &nbsp; &nbsp;
-Xing Ma (马幸)
-<img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp; 
-
-Jianyu Jiang (江建谕)
-<img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp;
-Zequan Wang (王泽权)
-<img src="assets/hhu_logo.png" alt="Logo" width="15">, &nbsp; &nbsp; 
-[Jun Zhou (周峻)](https://experts.griffith.edu.au/7205-jun-zhou) 
-<img src="assets/Griffith.png" alt="Logo" width="15">
-
-
-<img src="assets/hhu_logo_text.png" alt="Logo" width="100"> &nbsp; &nbsp;  &nbsp; &nbsp; 
-<img src="assets/seu_logo_text.jpg" alt="Logo" width="100"> &nbsp; &nbsp;  &nbsp; &nbsp; 
-<img src="assets/griffith_logo_text.png" alt="Logo" width="90">
-
-✉ *Corresponding Author*
-
-🤗[UEMM-Air](https://huggingface.co/datasets/1e12Leon/UEMM-Air)
+# Supplementary materials
 
 </div>
 
@@ -45,13 +15,9 @@ Zequan Wang (王泽权)
 2. [Acquisition Setup](#acquisition-setup)   
 
 3. [Related Works](#related-works)  
-   3.1 [UAV-based Environmental Perception](#uav-based-environmental-perception)  
-      3.1.1 [Object Detection](#object-detection)  
-      3.1.2 [Semantic Segmentation](#semantic-segmentation)  
+   3.1 [UAV-based Environmental Perception](#uav-based-environmental-perception)
    3.2 [UAV-based Environmental Perception Datasets](#uav-based-environmental-perception-datasets)  
-      3.2.1 [Object Detection Datasets](#object-detection-datasets)  
-      3.2.2 [Semantic Segmentation Datasets](#semantic-segmentation-datasets)  
-
+ 
 
 ## More Statistics of UEMM-Air
 
