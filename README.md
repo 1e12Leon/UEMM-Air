@@ -44,6 +44,7 @@ Zequan Wang (王泽权)
     - [Instance Segmentation](#instance-segmentation)
     - [Referring Expression Segmentation](#referring-expression-segmentation)
     - [Image-Text Retrieval](#image-text-retrieval)
+  - [Supplementary Materials](#Supplementary Materials)
   - [License 🚨](#license-)
   - [Citation 🎈](#citation)
   - [Contact ✉](#contact-)
@@ -81,6 +82,8 @@ encourages holistic perception modeling. Its synthetic nature ensures scalabilit
 ### Image-Text Retrieval
 *   [BaiduYun](https://pan.baidu.com/s/1O-U84fhqsJruyEV-UDKx8w?pwd=jppd)
   
+## Supplementary Materials
+[Supplementary Materials](Supplementary materials.md)
 
 ## License 🚨
 This dataset is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC-BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
