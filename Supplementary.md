@@ -6,17 +6,17 @@
 
 ## 📋 Table of Contents
 
-1. [More Statistics of UEMM-Air](#more-statistics-of-uemm-air)  
-   1.1 [Distribution and word clouds of captions](#distribution-and-word-clouds-of-captions)  
-   1.2 [Visualizations of Cross-modality Generation](#visualizations-of-cross-modality-generation)  
-   1.3 [Comparison with Manual Annotations](#comparison-with-manual-annotations)  
-   1.4 [Detail Experiments](#detail-experiments)  
+- [More Statistics of UEMM-Air](#more-statistics-of-uemm-air)  
+   - [Distribution and word clouds of captions](#distribution-and-word-clouds-of-captions)  
+   - [Visualizations of Cross-modality Generation](#visualizations-of-cross-modality-generation)  
+   - [Comparison with Manual Annotations](#comparison-with-manual-annotations)  
+   - [Detail Experiments](#detail-experiments)  
 
-2. [Acquisition Setup](#acquisition-setup)   
+- [Acquisition Setup](#acquisition-setup)   
 
-3. [Related Works](#related-works)  
-   3.1 [UAV-based Environmental Perception](#uav-based-environmental-perception)
-   3.2 [UAV-based Environmental Perception Datasets](#uav-based-environmental-perception-datasets)  
+- [Related Works](#related-works)  
+   - [UAV-based Environmental Perception](#uav-based-environmental-perception)
+   - [UAV-based Environmental Perception Datasets](#uav-based-environmental-perception-datasets)  
  
 
 ## More Statistics of UEMM-Air
