@@ -30,7 +30,7 @@ Zequan Wang (王泽权)
 
 ✉ *Corresponding Author*
 
-🤗[UEMM-Air](https://huggingface.co/datasets/1e12Leon/UEMM-Air)
+🤗[UEMM-Air](https://huggingface.co/datasets/1e12Leon/UEMM-Air)  &nbsp; &nbsp;  ✈️[AirNavigation](https://github.com/1e12Leon/AirNavigation)
 
 </div>
 
