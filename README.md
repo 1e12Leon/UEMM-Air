@@ -50,6 +50,7 @@ Zequan Wang (王泽权)
   - [Contact ✉](#contact-)
 
 ## News
+- **2025/8/01**: Our paper is accepted by ACM Multimedia 2025 Datasets Track!
 - **2025/1/20**: We have open-sourced the dataset generation system, which can be found in the [AirNavigation](https://github.com/1e12Leon/AirNavigation).
 - **2024/12/11**: Welcome to UEMM-Air! Dataset is open-sourced at this repository.
 
